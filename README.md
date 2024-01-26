@@ -4,13 +4,19 @@ Flutter test task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- [Own comments:]
+Design: 
+No font class for different font styles.
+Missing some custom icons from design.
+Six digit code of firebase instead five digig as in design.
 
-A few resources to get you started if this is your first Flutter project:
+Architecture:
+Missing different layers of architecture, non-compliance of SOLID.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Test task notes:]
+Components - Custom widgets
+Constants - Application constants such as icons, colors.
+Providers - state management layer
+Screens - User interfaces.
+Widgets - Ui separation.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
